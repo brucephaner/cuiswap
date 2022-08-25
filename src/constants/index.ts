@@ -3,7 +3,7 @@ import { ChainId, JSBI, Percent, Token, WETH } from '@uniswap/sdk'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 
-export const ROUTER_ADDRESS = '0x15d1cfA4e71f9B8c7C1BFAeDE30fDE4cAe7Cd20C'
+export const ROUTER_ADDRESS = '0x41D3c9eB7dA6b9fCeA5c4761280ba130d86bAE18'
 
 // a list of tokens by chain
 type ChainTokenList = {
